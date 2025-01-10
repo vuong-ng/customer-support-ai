@@ -10,6 +10,6 @@ This project involves developing a customer support chatbot powered by the Llama
 - Back-end: Node.js
 - LLM API: Llama3 via AWS Bedrock
 
-# App demo:
+# Web app interface:
 ![Home Page](demo1.png)
 
